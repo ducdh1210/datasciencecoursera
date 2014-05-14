@@ -1,5 +1,5 @@
-## This is repository to store codes from Coursera / Data Science
-### It is open to everyone
+## Content from Coursera - Data Science
+### Timeline
 
 * Class_1: Data Science ToolBox
 * Class_2: R programming
