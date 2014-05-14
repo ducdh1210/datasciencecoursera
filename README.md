@@ -1,7 +1,6 @@
-## This is a secondary heading
-### This is a tertiary heading
+## This is repository to store codes from Coursera / Data Science
+### It is open to everyone
 
-* first term in the list
-* second term in the list
-* third term in the list
-* fourth term in the list
+* Class_1: Data Science ToolBox
+* Class_2: R programming
+* Class_3: Clean Data
